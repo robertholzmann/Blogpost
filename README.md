@@ -33,7 +33,7 @@ Inside the repository, you’ll find three Jupyter notebooks under the `Real Dea
 
 ## Results
 
-Curious about what I discovered? I’ve compiled my findings into a blog post, which you can check out [here](#).
+Curious about what I discovered? I’ve compiled my findings into a blog post, which you can check out [here](https://medium.com/@robertjholzmann/following-the-money-a-deep-dive-into-global-defense-contractors-43fbaa4c7b57).
 
 ## Licensing, Authors, Acknowledgements
 
